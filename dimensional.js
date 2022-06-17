@@ -13,7 +13,6 @@ function SortedKeys(object) {
 	return SORT.InsertionSort(Object.keys(object));
 }
 
-
 DIMENSIONAL.Distance = function(positionA, positionB, metric) {
 	if (!COMPARE.Equals(DIMENSIONAL.GetKeys(positionA), DIMENSIONAL.GetKeys(positionB)))
 		throw "The passed positions have different number of dimensions.";
