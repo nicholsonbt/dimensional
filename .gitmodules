@@ -1,6 +1,6 @@
-[submodule "javascript-sorting"]
-	path = javascript-sorting
-	url = https://github.com/nicholsonbt/javascript-sorting.git
-[submodule "javascript-comparing"]
-	path = javascript-comparing
-	url = https://github.com/nicholsonbt/javascript-comparing.git
+[submodule "sorting-js"]
+	path = sorting-js
+	url = https://github.com/nicholsonbt/sorting-js.git
+[submodule "comparing-js"]
+	path = comparing-js
+	url = https://github.com/nicholsonbt/comparing-js.git
